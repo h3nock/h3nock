@@ -1,4 +1,4 @@
-  hi, i'm Henok. 
+  hi, i'm Henok👋
   
   i like writing code and building software.
 
