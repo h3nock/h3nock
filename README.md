@@ -14,7 +14,7 @@
   
   - [codex-meter](https://github.com/h3nock/codex-meter): fast tui dashboard for Codex usage, quota, reset timing, token volume, estimated cost, and activity history.
 
-  - [clipper](https://github.com/h3nock/clipper): take a screenshot of a macOS window in one step. pick with `fzf`, copy or save the image, and use `--json` when scripts or agents need the result.
+  - [clipper](https://github.com/h3nock/clipper): take a screenshot of any macOS window in one step from the terminal. pick with `fzf`, copy or save the image, and use `--json` when scripts or agents need the result.
 
   - [winpick](https://github.com/h3nock/winpick): switch to a macOS window from the terminal. pick with `fzf`, focus by window ID, list windows, and use JSON output for scripts or agents.
 
